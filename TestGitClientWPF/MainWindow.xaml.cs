@@ -26,6 +26,7 @@ namespace TestGitClientWPF
             
             // Remark was added on my phone.
             
+            // This change was added using VS Code.
         }
     }
 }
