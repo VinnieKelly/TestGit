@@ -23,6 +23,9 @@ namespace TestGitClientWPF
         public MainWindow()
         {
             InitializeComponent();
+            
+            // Remark was added on my phone.
+            
         }
     }
 }
