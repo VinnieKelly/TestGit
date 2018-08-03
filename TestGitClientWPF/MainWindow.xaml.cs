@@ -30,6 +30,7 @@ namespace TestGitClientWPF
 
             // This remark was added using Visual Studio
             
+            // This remark was added using VS Code on other PC
         }
     }
 }
